@@ -16,7 +16,7 @@ I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.ngu
 </p>
 
 - 🚀 &nbsp;My favorite topics are **Deep Reinforcement Learning**, **Robotics** and  other **Metacognitive Intelligence Systems**
-- :computer: &nbsp;Learn more about my projects on my **[page]**
+- :computer: &nbsp;Learn more about my projects on my **[Page]**
 - :book: &nbsp;Read more about my research on my **[Google Scholar]**
 - :mailbox: &nbsp;You can reach me via **[LinkedIn]**
 
@@ -60,7 +60,7 @@ I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.ngu
   </tr>
 </table> -->
 <!-- links -->
-[page]: https://www.ducan.co.uk/ "My Page"
+[Page]: https://www.ducan.co.uk/ "My Page"
 
 [Google Scholar]: https://scholar.google.com/citations?user=V_lzVjQAAAAJ&hl=en "My Scholar"
 
@@ -74,6 +74,7 @@ I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.ngu
 <!-- <a href="https://github.com/anducnguyen/ReadMeChessTour/blob/main/README.md"><img src="https://raw.githubusercontent.com/" alt="" width="80%" /></a> -->
 
 This is an open chess match where anyone can join, which makes it all the more exciting! Inspired by [Kasparov vs. The World](https://en.wikipedia.org/wiki/Kasparov_versus_the_World)'s style. It's really fun to see if 2-or-more heads are better than 1!
+
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
