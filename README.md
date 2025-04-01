@@ -15,16 +15,19 @@
 I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)
 </p>
 
-- :mailbox: &nbsp;My favorite topics are **Deep Reinforcement Learning**, ***Robotics** and  other **Metacognitive Intelligence Systems**
+- :mailbox: &nbsp;My favorite topics are **Deep Reinforcement Learning**, **Robotics** and  other **Metacognitive Intelligence Systems**
 
-- :book: &nbsp;Learn more about my projects on my **[pages]**
+- :computer: &nbsp;Learn more about my projects on my **[page]**
+
+- :book: &nbsp;Read more about my researches on my **[scholar]**
+
 <!-- - :office: &nbsp;I'm currently open to collaboration opportunity **[]** -->
 <!-- - :seedling: &nbsp;I’m currently working on my Ph.D. in Computer Science and Robotics **[homelab]** -->
 
 <!-- - :mailbox: &nbsp;Ask me anything on my **[issues page]** -->
 <!-- - :computer: &nbsp;Connect with me on **[LinkedIn]** -->
 
-<img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/anducnguyen/anducnguyen/img/ocean.gif" />
+<img alt="Snake eating my contributions for breakfast🧉" src="img/ocean.gif" />
 
 <h2 align="left" id="macropower-tech">Main Tech Stack</h2>
 
@@ -58,11 +61,14 @@ I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.ngu
   </tr>
 </table> -->
 <!-- links -->
-[pages]: https://scholar.google.com/citations?user=V_lzVjQAAAAJ&hl=en "My Scholar"
+[page]: https://www.ducan.co.uk/ "My Page"
+
+[scholar]: https://scholar.google.com/citations?user=V_lzVjQAAAAJ&hl=en "My Scholar"
 
 
-## README Chess Dual
-♟️ Want to connect with others in a fun way? 🏆 Play a move in this [open-source chess game](https://github.com/anducnguyen/ReadMeChessTour) I built using GitHub workflows & Python. Let’s duel! 👇 
+### ♟️ Want to connect in a fun way? 🏆
+
+ Play a move in this [open-source chess game](https://github.com/anducnguyen/ReadMeChessTour) I built using GitHub workflows & Python. Let’s duel! 👇 
 
 <!-- <a href="https://github.com/anducnguyen/ReadMeChessTour/blob/main/README.md"><img src="https://raw.githubusercontent.com/" alt="" width="80%" /></a> -->
 
@@ -72,14 +78,14 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | <img src="img/blank.png" width=50px> | <img src="img/black/knight.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/rook.png" width=50px> | <img src="img/black/king.png" width=50px> | <img src="img/blank.png" width=50px> | **8** |
-| **7** | <img src="img/black/rook.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/black/bishop.png" width=50px> | <img src="img/blank.png" width=50px> | **7** |
-| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
-| **5** | <img src="img/black/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
-| **4** | <img src="img/white/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/knight.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
-| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/knight.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/bishop.png" width=50px> | **3** |
-| **2** | <img src="img/white/rook.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **2** |
-| **1** | <img src="img/blank.png" width=50px> | <img src="img/white/knight.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/queen.png" width=50px> | <img src="img/white/king.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/rook.png" width=50px> | **1** |
+| **8** | <img src="img/blank.png" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/rook.svg" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/blank.png" width=50px> | **8** |
+| **7** | <img src="img/black/rook.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/blank.png" width=50px> | **7** |
+| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | **6** |
+| **5** | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | **5** |
+| **4** | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
+| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/bishop.svg" width=50px> | **3** |
+| **2** | <img src="img/white/rook.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **2** |
+| **1** | <img src="img/blank.png" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
@@ -125,7 +131,6 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 
 | Total moves |  User  |
 | :---------: | :----- |
-| 22 | [@milaabl](https://github.com/milaabl) |
 | 14 | [@przemek890](https://github.com/przemek890) |
 | 8 | [@AzeemIdrisi](https://github.com/AzeemIdrisi) |
 | 4 | [@b-hristov](https://github.com/b-hristov) |
