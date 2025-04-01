@@ -1,6 +1,7 @@
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm An Nguyen</h1>
-<h3 align="left">I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)</h3>
+<h3 align="left">I'm a Researcher at [[University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)]</h3>
+
 - :mailbox: &nbsp;My favorite topics are **Deep Reinforcement Learning**, ***Robotics** and  other **Metacognitive Intelligence Systems**
 - :book: &nbsp;Learn more about my projects on my **[pages]**
 <p align="left">
@@ -9,9 +10,6 @@
   </a>
   <a href="https://www.ducan.co.uk/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.ducan.co.uk">
-  </a>
-  <a href="https://scholar.google.com/citations?user=V_lzVjQAAAAJ&hl=en">
-    <img src="https://vercel-citations.vercel.app/api/simple?id={V_lzVjQAAAAJ}" alt="Citation History" width="600"/> 
   </a>
   <a href="https://www.linkedin.com/in/ducan-ng-andrew/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
