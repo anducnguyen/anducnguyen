@@ -12,9 +12,11 @@
   <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-2k">
   </a>
 
-I'm a Researcher at [[University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)]
+I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)
 </p>
+
 - :mailbox: &nbsp;My favorite topics are **Deep Reinforcement Learning**, ***Robotics** and  other **Metacognitive Intelligence Systems**
+
 - :book: &nbsp;Learn more about my projects on my **[pages]**
 <!-- - :office: &nbsp;I'm currently open to collaboration opportunity **[]** -->
 <!-- - :seedling: &nbsp;I’m currently working on my Ph.D. in Computer Science and Robotics **[homelab]** -->
