@@ -19,7 +19,7 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 **It's your turn to move! Choose one from the following table**
 <!-- BEGIN MOVES LIST -->
-**GAME IS OVER!** [Click here](https://github.com/player1/player1/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Start+new+game) to start a new game :D
+**GAME IS OVER!** [Click here](https://github.com/anducnguyen/anducnguyen/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Start+new+game) to start a new game :D
 <!-- END MOVES LIST -->
 
 Having fun? Ask a friend to do the next move!
@@ -70,6 +70,8 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 <Credits>
  <summary>Kudos to</summary>
+ <!-- Begin -->
 [@timburgan](https://github.com/timburgan)
 [@marcizhu](https://github.com/marcizhu/)
+<!-- End -->
 </Credits>
