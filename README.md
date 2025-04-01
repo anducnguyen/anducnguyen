@@ -8,9 +8,9 @@
   <a href="https://www.ducan.co.uk/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.ducan.co.uk">
   </a>
-  <a href="https://www.linkedin.com/in/ducan-ng-andrew/">
+  <!-- <a href="https://www.linkedin.com/in/ducan-ng-andrew/">
   <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-2k">
-  </a>
+  </a> -->
 
 I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)
 </p>
@@ -73,7 +73,7 @@ I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.ngu
 
 <!-- <a href="https://github.com/anducnguyen/ReadMeChessTour/blob/main/README.md"><img src="https://raw.githubusercontent.com/" alt="" width="80%" /></a> -->
 
-This is an open chess tournament where ANYONE can play. That's the fun part.  
+This is an open chess match where anyone can join, which makes it all the more exciting! Inspired by [Kasparov vs. The World](https://en.wikipedia.org/wiki/Kasparov_versus_the_World)'s style. It's really fun to see if 2-or-more heads are better than 1!
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
