@@ -1,7 +1,8 @@
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm An Nguyen</h1>
-<h3 align="left">I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)'</h3>
-
+<h3 align="left">I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)</h3>
+- :mailbox: &nbsp;My favorite topics are **Deep Reinforcement Learning**, ***Robotics** and  other **Metacognitive Intelligence Systems**
+- :book: &nbsp;Learn more about my projects on my **[pages]**
 <p align="left">
   <a href="https://github.com/anducnguyen/anducnguyen">
     <img src="https://komarev.com/ghpvc/?username=anducnghuyen" alt="page views" />
@@ -16,21 +17,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-<img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/anducnguyen/anducnguyen/img/ocean.gif" />
 
 <!-- - :office: &nbsp;I'm currently open to collaboration opportunity **[]** -->
 <!-- - :seedling: &nbsp;I’m currently working on my Ph.D. in Computer Science and Robotics **[homelab]** -->
-- :mailbox: &nbsp;My favorite topics are **Deep Reinforcement Learning**, ***Robotics** and  other **Metacognitive Intelligence Systems**
-- :book: &nbsp;Learn more about my projects on my **[pages]**
+
 <!-- - :mailbox: &nbsp;Ask me anything on my **[issues page]** -->
 <!-- - :computer: &nbsp;Connect with me on **[LinkedIn]** -->
 
-<br>
+<img alt="Snake eating my contributions for breakfast🧉" src="https://raw.githubusercontent.com/anducnguyen/anducnguyen/img/ocean.gif" />
 
-<h2 align="left" id="macropower-tech">Main Tech Stackh</h2>
+<h2 align="left" id="macropower-tech">Main Tech Stack</h2>
 
-> Tools, languages, and other things that I like to work with.
-[![](https://skillicons.dev/icons?i=aws,cpp,docker,git,html,js,latex,linux,mongodb,py,tensorflow,)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,pytorch,tensorflow,cpp,docker,git,html,js,latex,linux,mongodb,py)](https://skillicons.dev)
 <!-- <table>
   <tr>
     <td align="center" width="96">
