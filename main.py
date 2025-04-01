@@ -13,6 +13,8 @@ from github import Github
 import src.markdown as markdown
 import src.selftest as selftest
 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+import src.mockGithub as mockGithub
 # TODO: Use an image instead of a raw link to start new games
 
 class Action(Enum):
@@ -217,16 +219,6 @@ def main(issue, issue_author, repo_owner):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) >= 2 and sys.argv[1] == '--self-test':
-        selftest.run(main)
-        sys.exit(0)
-    else:
-        repo = Github(os.environ['GITHUB_TOKEN']).get_repo(os.environ['GITHUB_REPOSITORY'])
-        issue = repo.get_issue(number=int(os.environ['ISSUE_NUMBER']))
-        issue_author = '@' + issue.user.login
-        repo_owner = '@' + os.environ['REPOSITORY_OWNER']
 
-    ret, reason = main(issue, issue_author, repo_owner)
-
-    if ret == False:
-        sys.exit(reason)
+    selftest.run(main)
+    sys.exit(0)

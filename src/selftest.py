@@ -1,8 +1,12 @@
 import os
 import re
 import yaml
+import sys
 
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import src.mockGithub as mockGithub
+
 
 def get_test_data(settings, move_data, owner, i):
     labels = []
@@ -88,7 +92,7 @@ def run(main_fn):
 
     total = passed + failed
 
-    print()
+    print('Yo')
     print(f'\u001b[1m\u001b[33m    {total} total', end='')
     print(f'\u001b[1m\u001b[32m   {passed} passed', end='')
     print(f'\u001b[1m\u001b[31m   {failed} failed')
