@@ -15,11 +15,10 @@
 I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.nguyen/)
 </p>
 
-- :mailbox: &nbsp;My favorite topics are **Deep Reinforcement Learning**, **Robotics** and  other **Metacognitive Intelligence Systems**
-
+- 🚀 &nbsp;My favorite topics are **Deep Reinforcement Learning**, **Robotics** and  other **Metacognitive Intelligence Systems**
 - :computer: &nbsp;Learn more about my projects on my **[page]**
-
-- :book: &nbsp;Read more about my researches on my **[scholar]**
+- :book: &nbsp;Read more about my research on my **[Google Scholar]**
+- :mailbox: &nbsp;You can reach me via **[LinkedIn]**
 
 <!-- - :office: &nbsp;I'm currently open to collaboration opportunity **[]** -->
 <!-- - :seedling: &nbsp;I’m currently working on my Ph.D. in Computer Science and Robotics **[homelab]** -->
@@ -63,7 +62,9 @@ I'm a Researcher at [University of Oxford](https://www.cs.ox.ac.uk/people/an.ngu
 <!-- links -->
 [page]: https://www.ducan.co.uk/ "My Page"
 
-[scholar]: https://scholar.google.com/citations?user=V_lzVjQAAAAJ&hl=en "My Scholar"
+[Google Scholar]: https://scholar.google.com/citations?user=V_lzVjQAAAAJ&hl=en "My Scholar"
+
+[LinkedIn]: https://www.linkedin.com/in/ducan-ng-andrew/
 
 
 ### ♟️ Want to connect in a fun way? 🏆
