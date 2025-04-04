@@ -8,6 +8,12 @@
   <a href="https://www.ducan.co.uk/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.ducan.co.uk">
   </a>
+  <a>
+  [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=V_lzVjQAAAAJ&hl=en)
+  </a>
+  <a>
+  [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ducan-ng-andrew/)
+  </a>
   <!-- <a href="https://www.linkedin.com/in/ducan-ng-andrew/">
   <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-2k">
   </a> -->
